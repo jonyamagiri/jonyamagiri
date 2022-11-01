@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Software Engineer
 ----------------------------
 
-Am a student at Alx-Holberton Software Engineering school, sharpening my skills as a Full-stack Software Engineer. The intensive programme includes: Low-level programming (using C), Higher-level programming (using Python), System engineering & DevOps (using Ubuntu & Shell), Algorithms & Data structures.
+Am a student at Alx-Holberton Software Engineering school, sharpening my skills as a Full-stack Software Engineer. The intensive programme includes: Low-level programming (using C), Higher-level programming (using Python), System engineering & DevOps (using Ubuntu & Shell), Algorithms & Data structures,  SQL (MySQL). 
 This profile documents my journey of breaking into tech ... 
 
 * 🌍  I'm based in Kenya
