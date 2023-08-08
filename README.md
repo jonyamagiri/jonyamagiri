@@ -5,12 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Software Engineer
 ----------------------------
 
-Am a student at Alx-Holberton Software Engineering school, sharpening my skills as a Full-stack Software Engineer. The intensive programme includes: Low-level programming (using C), Higher-level programming (using Python), System engineering & DevOps (using Ubuntu & Shell), Algorithms & Data structures,  SQL (MySQL). 
+Am a recent graduate of ALX Africa Software Engineering school where I sharpened my skills as a Full-stack Software Engineer. The intensive programme included: Low-level programming (using C), Higher-level programming (using Python, JavaScript), System engineering & DevOps (using Ubuntu & Shell), Algorithms & Data structures,  SQL (MySQL). 
 This profile documents my journey of breaking into tech ... 
 
 * 🌍  I'm based in Kenya
-* ✉️  You can send me a DM at [@danogembo](mailto:@danogembo)
-* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can get in touch with me on  [@jonyamagiri](mailto:@jonyamagiri@gmail.com) or send me a DM at [@danogembo](mailto:@danogembo)
+* 🤝  I'm open to collaborating on projects
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
 
